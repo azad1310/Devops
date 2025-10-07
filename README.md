@@ -1,6 +1,6 @@
 # 🚀 Shekar DevOps Learning Journey
 
-![DevOps Infinity Loop](https://devopsedia.org/images/article/54/7602.1513404277.png)
+![DevOps Infinity Loop](https://cdn.pixabay.com/photo/2016/03/31/14/37/infinity-1294069_1280.png)
 
 ## 📚 About This Repository
 Welcome to my DevOps learning journey! This space will track my progress as I explore the DevOps lifecycle—code, build, test, plan, release, deploy, operate, and monitor. Expect notes, scripts, and projects as I grow into a DevOps engineer. Stay tuned!
