@@ -1,4 +1,4 @@
-# 🚀 shekar DevOps Learning Journey
+# 🚀 Shekar DevOps Learning Journey
 
 ![DevOps Infinity Loop](https://devopsedia.org/images/article/54/7602.1513404277.png)
 
