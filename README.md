@@ -15,4 +15,4 @@ Welcome to my DevOps learning journey! This space will track my progress as I ex
 - Exploring Kubernetes (WIP)
 
 ## 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[azad1310]&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azad1310&show_icons=true&theme=dark&hide_border=true)
