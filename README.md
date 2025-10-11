@@ -10,7 +10,7 @@ Welcome to my DevOps learning journey! This space will track my progress as I ex
 - Email: [azadobillaneni1004@gmail.com]
 
 ## 🚧 Upcoming Projects
-- Learning Docker basics
+- Devloping and deploying aws automation for industry 4.o
 - Setting up a GitHub Actions pipeline
 - Exploring Kubernetes (WIP)
 
